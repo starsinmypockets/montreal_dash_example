@@ -1,5 +1,5 @@
-var config = {
-  widgets: [
+{
+  "widgets": [
     {
       "elementId": "testWidget",
       "view": {
@@ -29,5 +29,5 @@ var config = {
       }
     }
   ],
-  datasets: ["https://datahub.io/london/unemployment"]
+  "datasets": ["https://datahub.io/london/unemployment"]
 }
