@@ -24,7 +24,8 @@
         ],
         "specType": "figure",
         "spec": {
-          "fieldName": "unemployment_rate"
+          "fieldName": "unemployment_rate",
+          "prefix": "%"
         }
       }
     }
