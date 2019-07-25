@@ -30,5 +30,5 @@
       }
     }
   ],
-  "datasets": ["https//datahub.io/london/unemployment"]
+  "datasets": ["https://datahub.io/london/unemployment"]
 }
